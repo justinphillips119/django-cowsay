@@ -1,0 +1,11 @@
+setup.py
+django_cowsay/__init__.py
+django_cowsay/asgi.py
+django_cowsay/settings.py
+django_cowsay/urls.py
+django_cowsay/wsgi.py
+django_cowsay.egg-info/PKG-INFO
+django_cowsay.egg-info/SOURCES.txt
+django_cowsay.egg-info/dependency_links.txt
+django_cowsay.egg-info/requires.txt
+django_cowsay.egg-info/top_level.txt
